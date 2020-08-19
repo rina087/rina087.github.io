@@ -1,29 +1,41 @@
 body{
     background-color:#5A9367;
-    text-align:middle;
-
 }
 h1{
     color:#C16200;
     font-family: Century;
-    text-align:middle;
-
+    
 }
 h2{
     color:#C16200;
     font-family: Century;
-    text-align:middle;
-
 }
 p{
     color:#FFFFF3;
     font-family: Century;
-    text-align:middle;
-
 }
 .div3{
     color:#FFFFF3;
     font-family: Century;
-    text-align:middle;
-
+}
+.footer{
+    background-color: #C16200;
+    margin: -3px;
+}
+.footer-logo{
+    color:#FFFFF3;
+    font-family: Century;
+}
+.footer-logo2{
+    color:#FFFFF3;
+    font-family: Century;
+}
+ul{
+    color:#FFFFF3;
+    font-family: Century;
+}
+li{
+    list-style:none;
+    color:#FFFFF3;
+    font-family: Century;
 }
