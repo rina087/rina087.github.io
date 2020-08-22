@@ -10,7 +10,7 @@ body{
     padding: 5px 0;
     text-align: center;
     color: #FFFFF3;
-    background-image: url(" https://rina087.github.io/IMG_1791.jpeg");
+    background-image: url("/Users/ririn087/Desktop/Waffle-Camp2/index写真/旧安祥寺川.jpeg");
     background-position: center ;
     background-size: cover;
   }
@@ -28,7 +28,13 @@ body{
     display: inline-block;
     margin: 0 20px;
   }    
-
+  .nav-list-item2{
+      list-style:none;
+      display:inline;
+      text-align:right;
+      margin:5px 5px 50px 70px;
+      font-size: 30px;
+  }
 contents{
     width: 30px;
     height: 50px;
@@ -55,14 +61,6 @@ p{
 .footer{
     background-color: #C16200;
     margin: -3px;
-}
-.footer-logo{
-    color:#FFFFF3;
-    font-family: Century;
-}
-.footer-logo2{
-    color:#FFFFF3;
-    font-family: Century;
 }
 ul{
     color:#FFFFF3;
