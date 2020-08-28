@@ -17,7 +17,7 @@ body{
   header .headline{
       line-height: 140px;
       font-size: 50px;
-      font-family: 'Caveat', cursive;
+      font-family: 'Amatic SC', cursive;
   }
   .nav-list {
       line-height: 20px;
@@ -44,22 +44,20 @@ contents{
 }    
 h2{
     color:#C16200;
-    font-family: 'Caveat', cursive;
-    font-size:8;
+    font-family: "Hannari";
+    font-size:6;
     margin:100px 70px 30px 70px;
 }
 p{
     color:#FFFFF3;
-    font-family: 'Caveat', cursive;
-    font-size:6;
+    font-family: "Hannari";
+}
 .div3{
     color:#FFFFF3;
-    font-family: 'Caveat', cursive;
-    font-size:6;
+    font-family: "Hannari";
 }
 .div4{
     image: size 10px;
-    font-size:6;
 }
 .footer{
     background-color: #C16200;
@@ -67,12 +65,12 @@ p{
 }
 ul{
     color:#FFFFF3;
-    font-family: 'Caveat', cursive;
+    font-family: "Hannari";
 }
 li{
     list-style:none;
     color:#FFFFF3;
-    font-family: 'Caveat', cursive;
+    font-family: "Hannari";
 }
 footer{
     width: 100%;

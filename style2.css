@@ -17,6 +17,7 @@ body{
       header .headline{
           line-height: 140px;
           font-size: 50px;
+          font-family: 'Amatic SC', cursive;
       }
       .nav-list {
           line-height: 20px;
@@ -37,19 +38,26 @@ body{
     }    
     h2{
         color:#C16200;
-        font-family: Century;
+        font-family: 'Sawarabi Mincho', sans-serif;
         font-size:6;
         margin:100px 70px 30px 70px;
     }
     p{
         color:#FFFFF3;
-        font-family: Century;
+        font-family: 'Sawarabi Mincho', sans-serif;
     }
     .div3{
         color:#FFFFF3;
-        font-family: Century;
+        font-family: 'Sawarabi Mincho', sans-serif;
+    }
+    .div3-1{
+        color:#FFFFF3;
+        font-family: 'Sawarabi Mincho', sans-serif;
     }
     .div4{
+        image: size 10px;
+    }
+    .div4-1{
         image: size 10px;
     }
     .footer{
@@ -58,20 +66,20 @@ body{
     }
     .footer-logo{
         color:#FFFFF3;
-        font-family: Century;
+        font-family: 'Sawarabi Mincho', sans-serif;
     }
     .footer-logo2{
         color:#FFFFF3;
-        font-family: Century;
+        font-family: 'Sawarabi Mincho', sans-serif;
     }
     ul{
         color:#FFFFF3;
-        font-family: Century;
+        font-family: 'Sawarabi Mincho', sans-serif;
     }
     li{
         list-style:none;
         color:#FFFFF3;
-        font-family: Century;
+        font-family: 'Sawarabi Mincho', sans-serif;
     }
     footer{
         width: 100%;
@@ -120,17 +128,17 @@ contents{
 }    
 h2{
     color:#C16200;
-    font-family: Century;
+    font-family: 'Sawarabi Mincho', sans-serif;
     font-size:6;
     margin:100px 70px 30px 70px;
 }
 p{
     color:#FFFFF3;
-    font-family: Century;
+    font-family: 'Sawarabi Mincho', sans-serif;
 }
 .div3{
     color:#FFFFF3;
-    font-family: Century;
+    font-family: 'Sawarabi Mincho', sans-serif;
 }
 .div4{
     image: size 10px;
@@ -141,20 +149,20 @@ p{
 }
 .footer-logo{
     color:#FFFFF3;
-    font-family: Century;
+    font-family: 'Sawarabi Mincho', sans-serif;
 }
 .footer-logo2{
     color:#FFFFF3;
-    font-family: Century;
+    font-family: 'Sawarabi Mincho', sans-serif;
 }
 ul{
     color:#FFFFF3;
-    font-family: Century;
+    font-family: 'Sawarabi Mincho', sans-serif;
 }
 li{
     list-style:none;
     color:#FFFFF3;
-    font-family: Century;
+    font-family: 'Sawarabi Mincho', sans-serif;
 }
 footer{
     width: 100%;
