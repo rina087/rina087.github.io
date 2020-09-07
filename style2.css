@@ -1,177 +1,213 @@
-body{
-        background-color:#56445D;
-    }
-    * {
-        margin:0; padding:0;
-      }
-      header {
-        width: 100%;
-        height: 200px;
-        padding: 5px 0;
-        text-align: center;
-        color: #FFFFF3;
-        background-image: url("/index写真/旧安祥寺川.jpeg");
-        background-position: center ;
-        background-size: cover;
-      }
-      header .headline{
-          line-height: 140px;
-          font-size: 50px;
-          font-family: 'Amatic SC', cursive;
-      }
-      .nav-list {
-          line-height: 20px;
-          list-style: none;
-          font-weight: bold;
-      }
-      .nav-list-item {
-        list-style: none;
-        display: inline-block;
-        margin: 0 20px;
-      }    
-    
-    contents{
-        width: 30px;
-        height: 50px;
-        padding: 5px 0;
-        text-align: center;
-    }    
-    h2{
-        color:#C16200;
-        font-family: 'Sawarabi Mincho', sans-serif;
-        font-size:6;
-        margin:100px 70px 30px 70px;
-    }
-    p{
-        color:#FFFFF3;
-        font-family: 'Sawarabi Mincho', sans-serif;
-    }
-    .div3{
-        color:#FFFFF3;
-        font-family: 'Sawarabi Mincho', sans-serif;
-    }
-    .div3-1{
-        color:#FFFFF3;
-        font-family: 'Sawarabi Mincho', sans-serif;
-    }
-    .div4{
-        image: size 10px;
-    }
-    .div4-1{
-        image: size 10px;
-    }
-    .footer{
-        background-color: #C16200;
-        margin: -3px;
-    }
-    .footer-logo{
-        color:#FFFFF3;
-        font-family: 'Sawarabi Mincho', sans-serif;
-    }
-    .footer-logo2{
-        color:#FFFFF3;
-        font-family: 'Sawarabi Mincho', sans-serif;
-    }
-    ul{
-        color:#FFFFF3;
-        font-family: 'Sawarabi Mincho', sans-serif;
-    }
-    li{
-        list-style:none;
-        color:#FFFFF3;
-        font-family: 'Sawarabi Mincho', sans-serif;
-    }
-    footer{
-        width: 100%;
-        height: 100px;
-        background-color: #174a5c;
-        color: white;
-        text-align: center;
-        margin:500px 0px 0px 0px;
-    }
-    ul.footer-menu li {
-    display: inline;
-    }
-* {
-    margin:0; padding:0;
-  }
-  header {
-    width: 100%;
-    height: 200px;
-    padding: 5px 0;
-    text-align: center;
-    color: #FFFFF3;
-    background-image: url("/Users/ririn087/Pictures/写真ライブラリ.photoslibrary/resources/proxies/derivatives/4e/00/4efc/UNADJUSTEDNONRAW_thumb_4efc.jpg");
-    background-position: center ;
-    background-size: cover;
-  }
-  header .headline{
-      line-height: 140px;
-      font-size: 50px;
-  }
-  .nav-list {
-      line-height: 20px;
-      list-style: none;
-      font-weight: bold;
-  }
-  .nav-list-item {
-    list-style: none;
-    display: inline-block;
-    margin: 0 20px;
-  }    
+body {
+  background-color: #56445D;
+}
 
-contents{
-    width: 30px;
-    height: 50px;
-    padding: 5px 0;
-    text-align: center;
-}    
-h2{
-    color:#C16200;
-    font-family: 'Sawarabi Mincho', sans-serif;
-    font-size:6;
-    margin:100px 70px 30px 70px;
+* {
+  margin: 0;
+  padding: 0;
 }
-p{
-    color:#FFFFF3;
-    font-family: 'Sawarabi Mincho', sans-serif;
+
+header {
+  width: 100%;
+  height: 200px;
+  padding: 5px 0;
+  text-align: center;
+  color: #FFFFF3;
+  background-image: url("/index写真/旧安祥寺川.jpeg");
+  background-position: center;
+  background-size: cover;
 }
-.div3{
-    color:#FFFFF3;
-    font-family: 'Sawarabi Mincho', sans-serif;
+
+header .headline {
+  line-height: 140px;
+  font-size: 50px;
+  font-family: 'Amatic SC', cursive;
 }
-.div4{
-    image: size 10px;
+
+.nav-list {
+  line-height: 20px;
+  list-style: none;
+  font-weight: bold;
 }
-.footer{
-    background-color: #C16200;
-    margin: -3px;
+
+.nav-list-item {
+  list-style: none;
+  display: inline-block;
+  margin: 0 20px;
 }
-.footer-logo{
-    color:#FFFFF3;
-    font-family: 'Sawarabi Mincho', sans-serif;
+
+contents {
+  width: 30px;
+  height: 50px;
+  padding: 5px 0;
+  text-align: center;
 }
-.footer-logo2{
-    color:#FFFFF3;
-    font-family: 'Sawarabi Mincho', sans-serif;
+
+h2 {
+  color: #C16200;
+  font-family: 'Sawarabi Mincho', sans-serif;
+  font-size: 6;
+  margin: 100px 70px 30px 70px;
 }
-ul{
-    color:#FFFFF3;
-    font-family: 'Sawarabi Mincho', sans-serif;
+
+p {
+  color: #FFFFF3;
+  font-family: 'Sawarabi Mincho', sans-serif;
 }
-li{
-    list-style:none;
-    color:#FFFFF3;
-    font-family: 'Sawarabi Mincho', sans-serif;
+
+.div3 {
+  color: #FFFFF3;
+  font-family: 'Sawarabi Mincho', sans-serif;
 }
-footer{
-    width: 100%;
-    height: 100px;
-    background-color: #8FBC94;
-    color: white;
-    text-align: center;
-    margin:500px 0px 0px 0px;
+
+.div3-1 {
+  color: #FFFFF3;
+  font-family: 'Sawarabi Mincho', sans-serif;
 }
+
+.div4 {
+  image: size 10px;
+}
+
+.div4-1 {
+  image: size 10px;
+}
+
+.footer {
+  background-color: #C16200;
+  margin: -3px;
+}
+
+.footer-logo {
+  color: #FFFFF3;
+  font-family: 'Sawarabi Mincho', sans-serif;
+}
+
+.footer-logo2 {
+  color: #FFFFF3;
+  font-family: 'Sawarabi Mincho', sans-serif;
+}
+
+ul {
+  color: #FFFFF3;
+  font-family: 'Sawarabi Mincho', sans-serif;
+}
+
+li {
+  list-style: none;
+  color: #FFFFF3;
+  font-family: 'Sawarabi Mincho', sans-serif;
+}
+
+footer {
+  width: 100%;
+  height: 100px;
+  background-color: #174a5c;
+  color: white;
+  text-align: center;
+  margin: 500px 0px 0px 0px;
+}
+
 ul.footer-menu li {
-display: inline;
+  display: inline;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  width: 100%;
+  height: 200px;
+  padding: 5px 0;
+  text-align: center;
+  color: #FFFFF3;
+  background-image: url("/Users/ririn087/Pictures/写真ライブラリ.photoslibrary/resources/proxies/derivatives/4e/00/4efc/UNADJUSTEDNONRAW_thumb_4efc.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+header .headline {
+  line-height: 140px;
+  font-size: 50px;
+}
+
+.nav-list {
+  line-height: 20px;
+  list-style: none;
+  font-weight: bold;
+}
+
+.nav-list-item {
+  list-style: none;
+  display: inline-block;
+  margin: 0 20px;
+}
+
+contents {
+  width: 30px;
+  height: 50px;
+  padding: 5px 0;
+  text-align: center;
+}
+
+h2 {
+  color: #C16200;
+  font-family: 'Sawarabi Mincho', sans-serif;
+  font-size: 6;
+  margin: 100px 70px 30px 70px;
+}
+
+p {
+  color: #FFFFF3;
+  font-family: 'Sawarabi Mincho', sans-serif;
+}
+
+.div3 {
+  color: #FFFFF3;
+  font-family: 'Sawarabi Mincho', sans-serif;
+}
+
+.div4 {
+  image: size 10px;
+}
+
+.footer {
+  background-color: #C16200;
+  margin: -3px;
+}
+
+.footer-logo {
+  color: #FFFFF3;
+  font-family: 'Sawarabi Mincho', sans-serif;
+}
+
+.footer-logo2 {
+  color: #FFFFF3;
+  font-family: 'Sawarabi Mincho', sans-serif;
+}
+
+ul {
+  color: #FFFFF3;
+  font-family: 'Sawarabi Mincho', sans-serif;
+}
+
+li {
+  list-style: none;
+  color: #FFFFF3;
+  font-family: 'Sawarabi Mincho', sans-serif;
+}
+
+footer {
+  width: 100%;
+  height: 100px;
+  background-color: #8FBC94;
+  color: white;
+  text-align: center;
+  margin: 500px 0px 0px 0px;
+}
+
+ul.footer-menu li {
+  display: inline;
 }
